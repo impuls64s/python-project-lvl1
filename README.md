@@ -11,3 +11,4 @@
   <li><b>brain-prime</b> - является ли представленное число простым ? Нужно ответиь yes если да и no если нет.</li>
   <li><b>brain-progression</b> - представлен список арефметической прогресси где необходмо заполнить недостающее число.</li>
 </ul>
+<a href="https://asciinema.org/a/528352" target="_blank"><img src="https://asciinema.org/a/528352.svg" /></a>

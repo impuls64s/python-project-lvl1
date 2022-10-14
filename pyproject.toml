@@ -1,12 +1,13 @@
 [tool.poetry]
 name = "hexlet-code"
 version = "0.1.0"
-description = ""
+description = "Brain Games"
 authors = ["Oleg Cherkashin <impuls_64@mail.ru>"]
 readme = "README.md"
 packages = [
   { include = "brain_games" },
 ]
+repository = "https://github.com/impuls64s/python-project-lvl1"
 
 [tool.poetry.scripts]
 brain-games = "brain_games.scripts.brain_games:main"

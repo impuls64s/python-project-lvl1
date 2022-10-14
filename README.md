@@ -3,6 +3,8 @@
 <a href="https://codeclimate.com/github/impuls64s/python-project-lvl1/maintainability"><img src="https://api.codeclimate.com/v1/badges/cf28bb5088a04b2b6842/maintainability" /></a>
 
 <h2>This is Brain Games!</h2>
+<p>Installation:</p><code>pip install --user --force-reinstall dist/*.whl</code>
+
 <p>Сhoose any game and play it:</p>
 <ul>
   <li><b>brain-calc</b> - нужно будет вычеслить математические выражения.</li>   

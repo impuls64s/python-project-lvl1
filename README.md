@@ -5,9 +5,9 @@
 <h2>This is Brain Games!</h2>
 <p>Сhoose any game and play it:</p>
 <ul>
-  <li><b>brain-calc</b> -    
+  <li><b>brain-calc</b> - нужно будет вычеслить математические выражения.</li>   
   <li><b>brain-even</b> - пользователю показывается случайное число. И ему нужно ответить yes, если число чётное, или no — если нечётное.</li>
-  <li>brain-gcd</li>
-  <li>brain-prime</li>
-  <li>brain-progression</li>
+  <li><b>brain-gcd</b> - необходимо найти наибольший общий делитель двух чисел.</li>
+  <li><b>brain-prime</b> - является ли представленное число простым ? Нужно ответиь yes если да и no если нет.</li>
+  <li><b>brain-progression</b> - представлен список арефметической прогресси где необходмо заполнить недостающее число.</li>
 </ul>

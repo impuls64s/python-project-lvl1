@@ -17,6 +17,8 @@ def main():
             print('Correct!')
             ii += 1
         else:
-            return print(f"'{ans}' is wrong answer ;(. Correct answer was '{answer[ii]}'.\nLet's try again, {name}!")
-    
+            value = (f"'{ans}' is wrong answer ;(."
+                     f" Correct answer was '{answer[ii]}'.\n"
+                     f"Let's try again, {name}!")
+            return print(value)
     return print(f'Congratulations, {name}!')
